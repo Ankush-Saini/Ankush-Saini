@@ -1,7 +1,7 @@
-Hey There 👋
+Hello World, I'm Ankush Saini - Backend Developer 👋
 
 
-- 👋 Hi, I’m @Ankush-Saini, a Backend Developer from India currently working as Senior Associate in Publicis Sapient🏢. 
+- 👋 Hi, I’m from India currently working as Senior Associate in Publicis Sapient🏢. 
 - 👀 I’m interested in technologies like Java, Spring Boot, React etc. 
 - 🌱 I’m currently learning GraphQL, Apache Kafka, AWS and much more to come.
 - 🛸 Besides Programming, I love to play games like valorant and love to watch animes.![devguy3](https://user-images.githubusercontent.com/15066828/121467065-15271800-c9d6-11eb-9102-cc91efc63c9b.gif)
