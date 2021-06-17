@@ -10,3 +10,6 @@ Hello World, I'm Ankush Saini - Backend Developer 👋
 Ankush-Saini/Ankush-Saini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush-Saini)](https://github.com/Ankush-Saini/github-readme-stats)
